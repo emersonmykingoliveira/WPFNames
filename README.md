@@ -1,2 +1,2 @@
 # WPFNames
-.NET WPF App.
+.NET WPF App to add and remove names.
